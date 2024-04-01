@@ -1,0 +1,2406 @@
+{
+  "ems": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Interne"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Infirmier"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Médecin"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Médecin Chef"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Directeur"
+      }
+    ],
+    "name": "ems",
+    "label": "SAMS"
+  },
+  "realestateagent": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "realestateagent",
+    "label": "Dynasty 8"
+  },
+  "barber2": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "barber2",
+    "label": "O'Sheas Barber"
+  },
+  "burgershot": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "burgershot",
+    "label": "Burger shot"
+  },
+  "tacosrancho": {
+    "name": "tacosrancho",
+    "grade": [
+      {
+        "gestion": false,
+        "coffre": true,
+        "salaire": 70,
+        "label": "Apprenti",
+        "grade": 0
+      },
+      {
+        "gestion": false,
+        "coffre": true,
+        "salaire": 70,
+        "label": "Employé",
+        "grade": 1
+      },
+      {
+        "gestion": false,
+        "coffre": true,
+        "salaire": 70,
+        "label": "DRH",
+        "grade": 2
+      },
+      {
+        "gestion": true,
+        "coffre": true,
+        "salaire": 70,
+        "label": "Co-pdg",
+        "grade": 3
+      },
+      {
+        "gestion": true,
+        "coffre": true,
+        "salaire": 70,
+        "label": "Directeur",
+        "grade": 4
+      }
+    ],
+    "label": "Tacos Rancho"
+  },
+  "postop": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "postop",
+    "label": "Post op"
+  },
+  "aucun": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 50,
+        "label": "Aucun travail"
+      }
+    ],
+    "name": "aucun",
+    "label": "Aucun travail"
+  },
+  "uwu": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "uwu",
+    "label": "Uwu cafe"
+  },
+  "bp": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Border Agent"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Border Supervisor"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Border Officer"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Executive Border Officer"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "General Border Officer"
+      }
+    ],
+    "name": "bp",
+    "label": "Border Patrol"
+  },
+  "usss": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Recrue"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Agent"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Officier"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Directeur"
+      }
+    ],
+    "name": "usss",
+    "label": "USSS"
+  },
+  "rockford": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "rockford",
+    "label": "69 Music"
+  },
+  "autoecole": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "autoecole",
+    "label": "Auto-École"
+  },
+  "shenails": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "shenails",
+    "label": "She Nails"
+  },
+  "avocat2": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Apprentit"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Avocat associé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Avocat"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Secrétaire"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Batonnier"
+      }
+    ],
+    "name": "avocat2",
+    "label": "Cabinet Harris"
+  },
+  "vangelico": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "vangelico",
+    "label": "Vangelico"
+  },
+  "harmony": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Mécano"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Expérimenté"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Patron"
+      }
+    ],
+    "name": "harmony",
+    "label": "Harmony repair"
+  },
+  "ltdmirror": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "ltdmirror",
+    "label": "LTD"
+  },
+  "ltdsud": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "ltdsud",
+    "label": "LTD grove street "
+  },
+  "pops": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "pops",
+    "label": "Pop's diner"
+  },
+  "casse": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "casse",
+    "label": "Casse Automobile"
+  },
+  "hornys": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "hornys",
+    "label": "Horny's"
+  },
+  "boi": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Recrue"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Agent"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Officier"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Directeur"
+      }
+    ],
+    "name": "boi",
+    "label": "B.O.I"
+  },
+  "tattooSud": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "tattooSud",
+    "label": "Tattoo King"
+  },
+  "records": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "records",
+    "label": "50 label records"
+  },
+  "comrades": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "comrades",
+    "label": "Comrades Bar"
+  },
+  "barber": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "barber",
+    "label": "Filipo Ciso"
+  },
+  "pearl": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "pearl",
+    "label": "Pearl"
+  },
+  "cardealerSud": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "cardealerSud",
+    "label": "LS MOTORS"
+  },
+  "weazelnews": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": false,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": false,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Journaliste"
+      },
+      {
+        "grade": 2,
+        "coffre": false,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Expérimenté"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Responsable"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Directeur"
+      }
+    ],
+    "name": "weazelnews",
+    "label": "Weazel news"
+  },
+  "hayes": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Mécano"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Expérimenté"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Patron"
+      }
+    ],
+    "name": "hayes",
+    "label": "Hayes Auto"
+  },
+  "beekers": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Mécano"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Expérimenté"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Patron"
+      }
+    ],
+    "name": "beekers",
+    "label": "Beekers Garage"
+  },
+  "yellowJack": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "yellowJack",
+    "label": "Yellow jack"
+  },
+  "domaine": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "domaine",
+    "label": "Domaine Fitzgerald"
+  },
+  "ammunation": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "ammunation",
+    "label": "Ammunation"
+  },
+  "lssd": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Rookie"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Officier"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Sergeant"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Lieutenant"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Capitaine"
+      }
+    ],
+    "name": "lssd",
+    "label": "LSSD"
+  },
+  "lst": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employee"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Senior Employee"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Supervisor"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-Director"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Director"
+      }
+    ],
+    "name": "lst",
+    "label": "Los Santos Transit"
+  },
+  "bcms": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Interne"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Infirmier"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Médecin"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Médecin Chef"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Directeur"
+      }
+    ],
+    "name": "bcms",
+    "label": "BCMS"
+  },
+  "bahamas": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "bahamas",
+    "label": "Bahama mamas"
+  },
+  "mirror": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "mirror",
+    "label": "Le Mirroir"
+  },
+  "pawnshop": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "pawnshop",
+    "label": "Pawn shop"
+  },
+  "upnatom": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "upnatom",
+    "label": "Upnatom"
+  },
+  "tattooNord": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "tattooNord",
+    "label": "Zock Tattoo"
+  },
+  "bennys": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Mécano"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Expérimenté"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Patron"
+      }
+    ],
+    "name": "bennys",
+    "label": "Benny's"
+  },
+  "sunshine": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Mécano"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Expérimenté"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Patron"
+      }
+    ],
+    "name": "sunshine",
+    "label": "Sunshine garage"
+  },
+  "pizzeria": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "pizzeria",
+    "label": "Pizzeria"
+  },
+  "avocat": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Apprentit"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Avocat associé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Avocat"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Secrétaire"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Batonnier"
+      }
+    ],
+    "name": "avocat",
+    "label": "T&T Avocats"
+  },
+  "gouv": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Sécurité"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Secretaire"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Secretaire d'État"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Vice-Gouverneur"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Gouverneur"
+      }
+    ],
+    "name": "gouv",
+    "label": "Gouvernement"
+  },
+  "blackwood": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "blackwood",
+    "label": "BlackWood"
+  },
+  "cluckin": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "cluckin",
+    "label": "Cluckin bell"
+  },
+  "taxi": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "taxi",
+    "label": "Downtown cab co."
+  },
+  "lsfd": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Rookie"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Officier"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Sergeant"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Lieutenant"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Capitaine"
+      }
+    ],
+    "name": "lsfd",
+    "label": "LSFD"
+  },
+  "bean": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "bean",
+    "label": "Bean machine"
+  },
+  "cardealerNord": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "cardealerNord",
+    "label": "American Motors"
+  },
+  "concessvelo": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "concessvelo",
+    "label": "Vespucci bike"
+  },
+  "bayviewLodge": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "bayviewLodge",
+    "label": "Bayview lodge"
+  },
+  "g6": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "g6",
+    "label": "gruppe sechs"
+  },
+  "lspd": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Rookie"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Officier"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Sergeant"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Lieutenant"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Capitaine"
+      }
+    ],
+    "name": "lspd",
+    "label": "LSPD"
+  },
+  "unicorn": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "unicorn",
+    "label": "Unicorn"
+  },
+  "don": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Apprenti"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "Employé"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 70,
+        "label": "DRH"
+      },
+      {
+        "grade": 3,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Co-pdg"
+      },
+      {
+        "grade": 4,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 70,
+        "label": "Directeur"
+      }
+    ],
+    "name": "don",
+    "label": "Don's country store"
+  },
+  "justice": {
+    "grade": [
+      {
+        "grade": 0,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Substitut"
+      },
+      {
+        "grade": 1,
+        "coffre": true,
+        "gestion": false,
+        "salaire": 90,
+        "label": "Procureur"
+      },
+      {
+        "grade": 2,
+        "coffre": true,
+        "gestion": true,
+        "salaire": 90,
+        "label": "Procureur Général"
+      }
+    ],
+    "name": "justice",
+    "label": "Justice"
+  }
+}

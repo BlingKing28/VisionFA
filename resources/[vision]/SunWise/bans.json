@@ -1,0 +1,18 @@
+[
+    {
+        "Bans": {
+            "12345ABC": {
+                "Name": "Flozii",
+                "identifier": "license:1b391a8fde59ab839707c61b0fa381554867fcab",
+                "token": "4:5a22638dda6b7a7a65e05638382c5c64c5104f05fbaecba4b8f14d41790f6aa3",
+                "discord": "N/A",
+                "IP": "ip:127.0.0.1",
+                "raison": "Vous avez été banni pour avoir stop une ressource : flz_admin."
+            },
+
+            "23456BCD": {
+                
+            }
+        }
+    }
+]

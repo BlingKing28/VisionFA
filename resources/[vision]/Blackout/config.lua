@@ -1,0 +1,3 @@
+blackout = {
+    car = false
+}
